@@ -45,14 +45,10 @@ Hi, I'm Thiru Vikram, a B.Tech CSE student (3rd year, 2nd semester) passionate a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiru-vikram&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiru-vikram&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiru-vikram&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiru-vikram&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiru-vikram&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" height="180em" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiru-vikram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
